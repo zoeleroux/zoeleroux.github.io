@@ -20,7 +20,7 @@
       <a href="" target="_blank">portfolio</a>
     </h2>
     <p>
-      Les messages cachés dans le conte
+      Mon sujet d'étude porte sur le statut de la typographie : du lu au vu, peut-on dire que la typographie glisse-t-elle vers l'illustration ? 
     </p>
   </aside>
 
@@ -177,6 +177,22 @@
     </h6>
   
   </article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </section>
