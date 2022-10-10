@@ -8,6 +8,7 @@
   tous les codes -> https://www.la-grange.net/w3c/html4.01/sgml/entities.html#h-24.4
 
 
+
 -->
 
 
@@ -47,7 +48,7 @@
       Les éditions du 81, 2015.
     </h5>
     
-    <blockquote cit="#">L'image est à la fois <em>accès</em> à une réalité absente qu'elle évoque symboliquement, et <em>obstacle</em> à cette réalité. Double sens du mot écran&#8239;: transparence et opacité</blockquote>
+    <blockquote cit="#">L'image est à la fois <i>accès</i> à une réalité absente qu'elle évoque symboliquement, et <i>obstacle</i> à cette réalité. Double sens du mot écran&#8239;: transparence et opacité</blockquote>
     
     <p> 
       Revenant sur l'Histoire de l'image, des grottes aux écrans numériques, des icônes religieuses au croquis scientifique, l'auteur s'attache à trouver une définition complète et satisfaisante de l'image. Parant du postulat selon lequel l'image n'est pas la ressemblance, Michel Melot explique leur puissance par les modèles antérieurs, les codes et les mondes intérieurs auxquels elles font référence. 
@@ -176,22 +177,6 @@
     </h6>
   
   </article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </section>
