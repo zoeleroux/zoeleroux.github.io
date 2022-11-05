@@ -20,7 +20,7 @@
       <a href="" target="_blank">portfolio</a>
     </h2>
     <p>
-      Mon sujet d'étude porte sur le statut de la typographie : du lu au vu, peut-on dire que la typographie glisse-t-elle vers l'illustration ? 
+      Mon sujet d'étude porte sur le statut de la typographie&#8239;: du lu au vu, peut-on dire que la typographie glisse-t-elle vers l'image ? Je m'interroge sur la façon dont la typographie, lorsqu'elle est utilisée comme une image, peut renforcer un message.
     </p>
   </aside>
 
@@ -48,7 +48,7 @@
       Les éditions du 81, 2015.
     </h5>
     
-    <blockquote cit="#">L'image est à la fois <i>accès</i> à une réalité absente qu'elle évoque symboliquement, et <i>obstacle</i> à cette réalité. Double sens du mot écran&#8239;: transparence et opacité</blockquote>
+    <blockquote cit="#">L'image est à la fois <em>accès</em> à une réalité absente qu'elle évoque symboliquement, et <em>obstacle</em> à cette réalité. Double sens du mot écran&#8239;: transparence et opacité</blockquote>
     
     <p> 
       Revenant sur l'Histoire de l'image, des grottes aux écrans numériques, des icônes religieuses au croquis scientifique, l'auteur s'attache à trouver une définition complète et satisfaisante de l'image. Parant du postulat selon lequel l'image n'est pas la ressemblance, Michel Melot explique leur puissance par les modèles antérieurs, les codes et les mondes intérieurs auxquels elles font référence. 
@@ -184,6 +184,83 @@
 
 
 
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+  
+  <article class="filterDiv livre art">
+    <h3>
+      INGOLD, Tim.  
+    </h3>
+
+    <h4>
+      <a href="https://www.leslibraires.fr/livre/4626650-une-breve-histoire-des-lignes-tim-ingold-zones-sensibles" target="_blank">
+        Une brève histoire des lignes, 
+      </a>
+    </h4> 
+    
+    <h5>
+      Zones Sensibles, 2011.
+    </h5>
+    
+    <blockquote cit="https://www.lemonde.fr/livres/article/2011/12/01/une-breve-histoire-des-lignes-de-tim-ingold_1611484_3260.html">Mais les lignes de la typographie, comme les lignes gravées dont elles dérivent, n'ont rien à voir avec les lignes fluides et tracées à la main levée de l'écriture cursive</blockquote>
+    
+    <p> 
+      En partant d’un constat très simple selon lequel nous rencontrons des lignes constamment dans notre vie (qu’elles soient naturelles ou produites par l’Homme), Tim Ingold dresse l’histoire de ces lignes dans ce livre illustré. S'appuyant autant sur l’anthropologie que sur l’architecture, l’art et l’archéologie. L’auteur commence par proposer une taxonomie des lignes reposant sur la distinction entre filaments et traces. Son œuvre se déploie sur une grille de lecture praxéologique puisqu'il cherche à comprendre ce qui se produit lorsque ces lignes sont réalisées sur différentes surfaces, par des gestes spécifiques. Ainsi, Ingold oppose la calligraphie et l'écriture, pratiques dirigées par le mouvement fluide de la main, à la typographie imprimée qu'il décrit comme immobile et construite.
+    </p>
+   
+
+    <h6> 
+      lu en octobre 2022 
+    </h6>
+  
+  </article>
+
+
+
+
+
+
+
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv typographie">
+    <h3>
+      Emigre n°15.
+    </h3>
+
+    <h4>
+      <a href="https://oa.letterformarchive.org/item?workID=lfa_emigre_0015&LFAPics=Yes" target="_blank">
+        Do you read me?, 
+      </a>
+    </h4> 
+    
+    <h5>
+      Emigre, 1990.
+    </h5>
+    
+    <blockquote cit="https://www.emigre.com/Magazine/15">L&#8239;e&#8239;g&#8239;i&#8239;b&#8239;i&#8239;l&#8239;i&#8239;t&#8239;y&#8239;: letters are legible. If some things are not legible, then they are not letters. Illegible letters does not exist. Illegibility does not exist.</blockquote>
+    
+    <p> 
+      Est-ce que toute typographie a pour but d'être lisible ? Pour Emigre la question est tranchée : l'illisibilité n'existe pas. Tout est question d'habitudes de lecture. Après un raz-le-bol du standard et de la Helvetica, l'expérimentation dans la typographie vient s'imposer au-delà du fonctionnel. Ce numéro ouvre une conversation sur la nécessité de créer des typographies imparfaites et irrégulières, flirtant parfois avec ce que l'on appelle le <em>lisible</em>, puisque c'est souvent là que l'on fait au mieux ressortir une individualité. La thèse radicale ici défendue est disséquée dans des interviews et articles mis en concurrence. S'opposent alors les opinions autour de la nouvelle vague post-moderne puisqu'on peut y retrouver Jeffrey Keedy, Karrie Jacobs ou encore Barry Deck. Humour, critique et rythme du parlé, le contenu de ce qu'est un magazine est tout autant revisité que la forme où l'on retrouve des mises en pages irrégulières, bariolées par des typographies expérimentales.
+    </p>
+   
+
+    <h6> 
+      lu le 16/10/2022 
+    </h6>
+  
+  </article>
 
 
 
@@ -192,7 +269,83 @@
 
 
 
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
 
+  <article class="filterDiv design designers">
+    <h3>
+      ROCK, Michael.  
+    </h3>
+
+    <h4>
+      <a href="https://2x4.org/ideas/2009/fuck-content/" target="_blank">
+        FUCK CONTENT, 
+      </a>
+    </h4> 
+    
+    <h5>
+      2x4, 2009.
+    </h5>
+    
+    <blockquote cit="https://www.behance.net/gallery/33152375/Michael-Rock-Fuck-Content-%282005%29-Design-Accordion">Work must be saying something, which is different than being about something.</blockquote>
+    
+    <p> 
+      Aujourd’hui encore, le contenu est souvent perçu comme supérieur, intellectuel car intelligible ; face à la forme sensible, passive, qui n’existe que pour incarner le contenu. Face à cette dichotomie peu valorisante pour le designer graphique, c’est-à-dire celui qui donne forme, Michael Rock soutient que cette mise en forme est suffisante. Elle est pour lui un acte de création à part entière, révélant non seulement les intérêts et inclinaisons de son créateur mais possédant également un sens propre essentiel, voire transformateur. Il s’inscrit en faux contre toute une tradition de pensée selon laquelle “la forme suit la fonction” (Sullivan) et se rattachant aux thèses de McLuhan qui défendait avant lui que le média est le message. 
+    </p>
+   
+
+    <h6> 
+      consulté le 05/10/2022  
+    </h6>
+  
+  </article>
+
+
+
+
+
+
+
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv typographie">
+    <h3>
+      LUPTON, Ellen.  
+    </h3>
+
+    <h4>
+      <a href="https://papress.com/products/thinking-with-type-second-revised-expanded-edition-a-critical-guide-for-designers-writers-editors-students?_pos=1&_sid=4b83998b3&_ss=r" target="_blank">
+        Thinking with type, 
+      </a>
+    </h4> 
+    
+    <h5>
+      Princeton Architectural Press, 2010.
+    </h5>
+    
+    <blockquote cit="https://readings.design/PDF/thinkingwithtype_ellenlupton.pdf">Typography is what language looks like.</blockquote>
+    
+    <p> 
+      Cet ouvrage se propose comme un guide pour les designers, étudiants, éditeurs, afin de mieux connaître et d'appréhender la typographie. Il est divisé en trois chapitres&#8239;: la lettre, le texte et la grille. Chacun est généreusement accompagné d’exemples, d’illustrations et même de rapides exercices. l'auteur retrace rapidement l’histoire de la typographie et revient sur des courants de pensée, des façon faire, selon ce qu’elle cherche à illustrer. Ce livre déborde d’informations, du texte principal jusque dans les petites notes de bas de page ou les exemples, ce qui invite à une lecture active et aiguisée.
+    </p>
+   
+
+    <h6> 
+      lu en octobre 2022
+    </h6>
+  
+  </article>
 
 
 </section>
