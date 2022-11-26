@@ -19,9 +19,10 @@
       Zoé, Leroux 
       <a href="" target="_blank">portfolio</a>
     </h2>
-    <p>
-      Mon sujet d'étude porte sur le statut de la typographie&#8239;: du lu au vu, peut-on dire que la typographie glisse-t-elle vers l'image ? Je m'interroge sur la façon dont la typographie, lorsqu'elle est utilisée comme une image, peut renforcer un message.
-    </p>
+     <p>
+      <!-- Mon sujet d'étude porte sur le statut de la typographie&#8239;: du lu au vu, peut-on dire que la typographie glisse-t-elle vers l'image ? Je m'interroge sur la façon dont la typographie, lorsqu'elle est utilisée comme une image, peut renforcer un message.--> 
+      Mon sujet d'étude porte sur la relation entre typographie et geste. Les deux sont souvent pensés séparement car la typographie fixe le caractère pour pouvoir le reproduire mais les technologies numériques ouvrent aujourd'hui vers d'autres horizons. Quelle place trouve le mouvement dans la création de caractères typographiques en tant qu’elle est aujourd’hui sans cesse médiatisée par le numérique ?
+     </p>
   </aside>
 
 
@@ -68,7 +69,7 @@
    / _ \ | '__| __| |/ __| |/ _ \
   / ___ \| |  | |_| | (__| |  __/
  /_/   \_\_|   \__|_|\___|_|\___|
- -->
+ 
 
   <article class="filterDiv narration">
     <h3>
@@ -98,6 +99,7 @@
   
   </article>
 
+-->
 
 
 
@@ -348,8 +350,127 @@
   </article>
 
 
+
+
+
+
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv tag1 tag2">
+    <h3>
+      KNEBUSCH, Jérôme. 
+    </h3>
+
+    <h4>
+      <a href="https://www.youtube.com/watch?v=IMC3ESk5fxQ" target="_blank">
+        Instant Nouveau, 
+      </a>
+    </h4> 
+    
+    <h5>
+      Conférence du Campus Fonderie De l’Image "I Draw The Line", 2022.
+    </h5>
+    
+    <blockquote cit="https://www.campusfonderiedelimage.org/rdv-le-9-novembre-pour-le-colloque-international-de-typographie-9/">L’écriture est une chose que vous ne pouvez pas vraiment toucher. Vous ne pouvez que voir son résultat. Alors que la typo c’est l’écriture avec des lettres pré-fabriquées</blockquote>
+    
+    <p> 
+      Avec ce colloque ayant pour thème “le Geste manuscrit d’écriture”, Jérôme Knebusch propose une conférence éclairante sur son travail et ses méthodes de recherche. Aux travers de trois de ses travaux, “Instant”, “Almost” et “Triennale”, il décrypte sa façon d’inclure le geste dans ses réalisations. Sa pratique est souvent traversée par des clins d’œil à l’histoire de la typographie. Il réinterprète les formes de l’Art Nouveau, des caractères gothiques ou encore humanistes à l’heure actuelle et souvent en rendant ces polices variables.
+    </p>
+   
+
+    <h6> 
+      vu le 09/11/2022
+    </h6>
+  
+  </article>
+
+
+
+
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv tag1 tag2">
+    <h3>
+      MINEUR, Etienne.
+    </h3>
+
+    <h4>
+      <a href="https://etienne.design/portfolio/sidebar-stack-4-2/" target="_blank">
+        Typographies artificielles,
+      </a>
+    </h4> 
+    
+    <h5>
+      2022.
+    </h5>
+    
+    <blockquote cit="https://etienne.design/2022/05/16/ai/">Ces «&#8239;intelligences&#8239;» artificielles n’auront «&#8239;jamais&#8239;» l’expérience du vécu&#8239;, de la douleur&#8239;, de la joie&#8239;, du plaisir&#8239;, de la passion&#8239;, de la beauté&#8239;…</blockquote>
+    
+    <p> 
+      Écrire sans tracer de lettres. Si cela semble impossible, c’est pourtant un pari qu’Étienne Mineur a pris. à partir de prompts, et un dialogue avec une IA plus ou moins compliqué, le designer a reconstruit un alphabet entier. C’est justement ces mauvaises compréhensions et erreurs de l’IA qui génère des réponses à la fois créatives, étranges et parfois dérangeantes. Avec cette nouvelle approche du dessin de lettre, l’action humaine n’est plus directement liée au résultat formel&#8239;— mais elle reste nécessaire pour orienter l’IA dans sa collecte de données. Si ce projet semble anodin et presque ludique, Étienne Mineur soulève tout de même qu’il pose la question de la place du designer dans un monde où les nouvelles technologies deviennent de plus en plus aptes à générer de nouvelles formes.
+    </p>
+   
+
+    <h6> 
+      consulté le 14/11/2022  
+    </h6>
+  
+  </article>
+
+
+
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv tag1 tag2">
+    <h3>
+      COOPER, Muriel.  
+    </h3>
+
+    <h4>
+      <a href=" https://www.youtube.com/watch?v=Qn9zCrIJzLs&ab_channel=inventinginteractive" target="_blank">
+        Information Landscape, 
+      </a>
+    </h4> 
+    
+    <h5>
+      “Visible Language Workshop”, MIT Media Lab,1985.
+    </h5>
+    
+    <blockquote cit="http://indexgrafik.fr/muriel-cooper/ ">Electronic information lies in a strange and complex new wolrd without boundaries […] we must invent new metaphors and models something less linear than the «&#8239;information highway&#8239;».</blockquote>
+    
+    <p> 
+      Le mot ne s’inscrit plus seulement sur la matérialité du livre, plat et linéaire. Il occupe maintenant l’espace infini et tri-dimensionnel qu’est “l’autoroute électronique”. Pour Muriel Cooper et les étudiants du workshop «&#8239;visible language&#8239;» du MIT, ces nouvelles modalités d’existence de l’information urgent les designers à penser et développer des façons inédites de naviguer.  Bien que cette conférence date des années 80, elle est toujours aussi remarquable aujourd’hui puisqu’elle présente des intuitions et des interrogations très justes. Pour eux, il faut imaginer un paysage d’informations. Jouant sur la transparence, le flou et le zoom infini, de nouvelles interfaces pourraient nous permettre de se déplacer autour de l’information, de la parcourir, de la détailler et d’en saisir l’organisation. Cela pose évidemment la question de la façon dont le spectateur trouvera s’orientera dans un tel espace.
+    </p>
+   
+
+    <h6> 
+      vu le 19/11/2022
+    </h6>
+  
+  </article>
+
+
+
+
+
+
 </section>
-
-
-
 
