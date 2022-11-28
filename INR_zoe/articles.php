@@ -11,9 +11,9 @@
 
 -->
 
-<section>
+<section id="parent">
       
-  <aside>    
+  <aside id="div1">    
     <h2>
       Zoé, Leroux 
       <a href="" target="_blank">portfolio</a>
@@ -36,7 +36,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv image">
+  <article class="filterDiv image" id="div2">
     <h3>
       MELOT, Michel.  
     </h3>
@@ -114,7 +114,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv typographie interactif">
+  <article class="filterDiv typographie interactif" id="div3">
     <h3>
       BOIVIN, Diane.  
     </h3>
@@ -154,7 +154,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
   
-   <article class="filterDiv imprime art">
+   <article class="filterDiv imprime art" id="div4">
     <h3>
       MOREL, Claire.  
     </h3>
@@ -196,7 +196,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
   
-  <article class="filterDiv livre art">
+  <article class="filterDiv livre art" id="div5">
     <h3>
       INGOLD, Tim.  
     </h3>
@@ -238,7 +238,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv typographie">
+  <article class="filterDiv typographie" id="div6">
     <h3>
       Emigre n°15.
     </h3>
@@ -256,7 +256,7 @@
     <blockquote cit="https://www.emigre.com/Magazine/15">L&#8239;e&#8239;g&#8239;i&#8239;b&#8239;i&#8239;l&#8239;i&#8239;t&#8239;y&#8239;: letters are legible. If some things are not legible, then they are not letters. Illegible letters does not exist. Illegibility does not exist.</blockquote>
     
     <p> 
-      Est-ce que toute typographie a pour but d'être lisible ? Pour Emigre la question est tranchée : l'illisibilité n'existe pas. Tout est question d'habitudes de lecture. Après un raz-le-bol du standard et de la Helvetica, l'expérimentation dans la typographie vient s'imposer au-delà du fonctionnel. Ce numéro ouvre une conversation sur la nécessité de créer des typographies imparfaites et irrégulières, flirtant parfois avec ce que l'on appelle le <em>lisible</em>, puisque c'est souvent là que l'on fait au mieux ressortir une individualité. La thèse radicale ici défendue est disséquée dans des interviews et articles mis en concurrence. S'opposent alors les opinions autour de la nouvelle vague post-moderne puisqu'on peut y retrouver Jeffrey Keedy, Karrie Jacobs ou encore Barry Deck. Humour, critique et rythme du parlé, le contenu de ce qu'est un magazine est tout autant revisité que la forme où l'on retrouve des mises en pages irrégulières, bariolées par des typographies expérimentales.
+      Est-ce que toute typographie a pour but d'être lisible ? Pour Emigre la question est tranchée : l'illisibilité n'existe pas. Tout est question d'habitudes de lecture. Ce numéro ouvre une conversation sur la nécessité de créer des typographies imparfaites et irrégulières, flirtant parfois avec ce que l'on appelle le <em>lisible</em>, puisque c'est souvent là que l'on fait au mieux ressortir une individualité. La thèse radicale ici défendue est disséquée dans des interviews et articles mis en concurrence. S'opposent alors les opinions autour de la nouvelle vague post-moderne puisqu'on peut y retrouver Jeffrey Keedy, Karrie Jacobs ou encore Barry Deck. Humour, critique et rythme du parlé, le contenu de ce qu'est un magazine est tout autant revisité que la forme où l'on retrouve des mises en pages irrégulières, bariolées par des typographies expérimentales.
     </p>
    
 
@@ -281,7 +281,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv design designers">
+  <article class="filterDiv design designers" id="div7">
     <h3>
       ROCK, Michael.  
     </h3>
@@ -323,7 +323,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv typographie">
+  <article class="filterDiv typographie" id="div8">
     <h3>
       LUPTON, Ellen.  
     </h3>
@@ -364,7 +364,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv typographie numerique">
+  <article class="filterDiv typographie numerique" id="div9">
     <h3>
       KNEBUSCH, Jérôme. 
     </h3>
@@ -403,7 +403,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv typographie numerique">
+  <article class="filterDiv typographie numerique" id="div10">
     <h3>
       MINEUR, Etienne.
     </h3>
@@ -441,7 +441,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv typographie numerique">
+  <article class="filterDiv typographie numerique" id="div11">
     <h3>
       COOPER, Muriel.  
     </h3>
@@ -459,7 +459,7 @@
     <blockquote cit="http://indexgrafik.fr/muriel-cooper/ ">Electronic information lies in a strange and complex new wolrd without boundaries […] we must invent new metaphors and models something less linear than the «&#8239;information highway&#8239;».</blockquote>
     
     <p> 
-      Le mot ne s’inscrit plus seulement sur la matérialité du livre, plat et linéaire. Il occupe maintenant l’espace infini et tri-dimensionnel qu’est “l’autoroute électronique”. Pour Muriel Cooper et les étudiants du workshop «&#8239;visible language&#8239;» du MIT, ces nouvelles modalités d’existence de l’information urgent les designers à penser et développer des façons inédites de naviguer.  Bien que cette conférence date des années 80, elle est toujours aussi remarquable aujourd’hui puisqu’elle présente des intuitions et des interrogations très justes. Pour eux, il faut imaginer un paysage d’informations. Jouant sur la transparence, le flou et le zoom infini, de nouvelles interfaces pourraient nous permettre de se déplacer autour de l’information, de la parcourir, de la détailler et d’en saisir l’organisation. Cela pose évidemment la question de la façon dont le spectateur trouvera s’orientera dans un tel espace.
+      Le mot ne s’inscrit plus seulement sur la matérialité du livre, plat et linéaire. Il occupe maintenant l’espace infini et tri-dimensionnel qu’est «&#8239;l’autoroute électronique&#8239;». Pour Muriel Cooper et les étudiants du workshop «&#8239;visible language&#8239;» du MIT, ces nouvelles modalités d’existence de l’information urgent les designers à penser et développer des façons inédites de naviguer dans l'espace numérique. Pour eux, il faut imaginer un paysage d’informations. Jouant sur la transparence, le flou et le zoom infini, de nouvelles interfaces pourraient nous permettre de se déplacer autour de l’information, de la parcourir, de la détailler et d’en saisir l’organisation. Cela pose évidemment la question de la façon dont le spectateur trouvera s’orientera dans un tel espace.
     </p>
    
 
