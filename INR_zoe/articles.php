@@ -362,7 +362,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv tag1 tag2">
+  <article class="filterDiv typographie numerique">
     <h3>
       KNEBUSCH, Jérôme. 
     </h3>
@@ -401,7 +401,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv tag1 tag2">
+  <article class="filterDiv typographie numerique">
     <h3>
       MINEUR, Etienne.
     </h3>
@@ -439,7 +439,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv tag1 tag2">
+  <article class="filterDiv typographie numerique">
     <h3>
       COOPER, Muriel.  
     </h3>
