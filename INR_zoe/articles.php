@@ -11,7 +11,6 @@
 
 -->
 
-
 <section>
       
   <aside>    
@@ -20,7 +19,10 @@
       <a href="" target="_blank">portfolio</a>
     </h2>
      <p>
-      <!-- Mon sujet d'étude porte sur le statut de la typographie&#8239;: du lu au vu, peut-on dire que la typographie glisse-t-elle vers l'image ? Je m'interroge sur la façon dont la typographie, lorsqu'elle est utilisée comme une image, peut renforcer un message.--> 
+      <!-- 
+      Mon sujet d'étude porte sur le statut de la typographie&#8239;: du lu au vu, peut-on dire que la typographie glisse-t-elle vers l'image ? Je m'interroge sur la façon dont la typographie, lorsqu'elle est utilisée comme une image, peut renforcer un message.
+      --> 
+
       Mon sujet d'étude porte sur la relation entre typographie et geste. Les deux sont souvent pensés séparement car la typographie fixe le caractère pour pouvoir le reproduire mais les technologies numériques ouvrent aujourd'hui vers d'autres horizons. Quelle place trouve le mouvement dans la création de caractères typographiques en tant qu’elle est aujourd’hui sans cesse médiatisée par le numérique ?
      </p>
   </aside>
@@ -49,10 +51,10 @@
       Les éditions du 81, 2015.
     </h5>
     
-    <blockquote cit="#">L'image est à la fois <em>accès</em> à une réalité absente qu'elle évoque symboliquement, et <em>obstacle</em> à cette réalité. Double sens du mot écran&#8239;: transparence et opacité</blockquote>
+    <blockquote cit="#">L'image est à la fois <em>accès</em> à une réalité absente qu'elle évoque symboliquement, et <em>obstacle</em> à cette réalité. Double sens du mot écran&#8239;: transparence et opacité.</blockquote>
     
     <p> 
-      Revenant sur l'Histoire de l'image, des grottes aux écrans numériques, des icônes religieuses au croquis scientifique, l'auteur s'attache à trouver une définition complète et satisfaisante de l'image. Parant du postulat selon lequel l'image n'est pas la ressemblance, Michel Melot explique leur puissance par les modèles antérieurs, les codes et les mondes intérieurs auxquels elles font référence. 
+      Revenant sur l'Histoire de l'image, des grottes aux écrans numériques, des icônes religieuses au croquis scientifique, l'auteur s'attache à trouver une définition complète et satisfaisante de l'image. Partant du postulat selon lequel l'image n'est pas la ressemblance, Michel Melot explique leur puissance par les modèles antérieurs, les codes et les mondes intérieurs auxquels elles font référence. 
     </p>
    
 
@@ -124,7 +126,7 @@
     </h4> 
     
     <h5>
-      étapes:, 2012.
+      étapes: magazine, 2012.
     </h5>
     
     <blockquote cit="https://cargocollective.com/dianeboivin/lecture-relecture">Ma pratique du graphisme s’oriente vers cette notion de l’OULEPO – ouvroir de lectures potentielles – en référence au mouvement littéraire OULIPO.</blockquote>
@@ -209,7 +211,7 @@
       Zones Sensibles, 2011.
     </h5>
     
-    <blockquote cit="https://www.lemonde.fr/livres/article/2011/12/01/une-breve-histoire-des-lignes-de-tim-ingold_1611484_3260.html">Mais les lignes de la typographie, comme les lignes gravées dont elles dérivent, n'ont rien à voir avec les lignes fluides et tracées à la main levée de l'écriture cursive</blockquote>
+    <blockquote cit="https://www.lemonde.fr/livres/article/2011/12/01/une-breve-histoire-des-lignes-de-tim-ingold_1611484_3260.html">Mais les lignes de la typographie, comme les lignes gravées dont elles dérivent, n'ont rien à voir avec les lignes fluides et tracées à la main levée de l'écriture cursive.</blockquote>
     
     <p> 
       En partant d’un constat très simple selon lequel nous rencontrons des lignes constamment dans notre vie (qu’elles soient naturelles ou produites par l’Homme), Tim Ingold dresse l’histoire de ces lignes dans ce livre illustré. S'appuyant autant sur l’anthropologie que sur l’architecture, l’art et l’archéologie. L’auteur commence par proposer une taxonomie des lignes reposant sur la distinction entre filaments et traces. Son œuvre se déploie sur une grille de lecture praxéologique puisqu'il cherche à comprendre ce qui se produit lorsque ces lignes sont réalisées sur différentes surfaces, par des gestes spécifiques. Ainsi, Ingold oppose la calligraphie et l'écriture, pratiques dirigées par le mouvement fluide de la main, à la typographie imprimée qu'il décrit comme immobile et construite.
@@ -377,7 +379,7 @@
       Conférence du Campus Fonderie De l’Image "I Draw The Line", 2022.
     </h5>
     
-    <blockquote cit="https://www.campusfonderiedelimage.org/rdv-le-9-novembre-pour-le-colloque-international-de-typographie-9/">L’écriture est une chose que vous ne pouvez pas vraiment toucher. Vous ne pouvez que voir son résultat. Alors que la typo c’est l’écriture avec des lettres pré-fabriquées</blockquote>
+    <blockquote cit="https://www.campusfonderiedelimage.org/rdv-le-9-novembre-pour-le-colloque-international-de-typographie-9/">L’écriture est une chose que vous ne pouvez pas vraiment toucher. Vous ne pouvez que voir son résultat. Alors que la typo c’est l’écriture avec des lettres pré-fabriquées.</blockquote>
     
     <p> 
       Avec ce colloque ayant pour thème “le Geste manuscrit d’écriture”, Jérôme Knebusch propose une conférence éclairante sur son travail et ses méthodes de recherche. Aux travers de trois de ses travaux, “Instant”, “Almost” et “Triennale”, il décrypte sa façon d’inclure le geste dans ses réalisations. Sa pratique est souvent traversée par des clins d’œil à l’histoire de la typographie. Il réinterprète les formes de l’Art Nouveau, des caractères gothiques ou encore humanistes à l’heure actuelle et souvent en rendant ces polices variables.

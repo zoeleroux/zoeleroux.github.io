@@ -1,0 +1,135 @@
+@font-face{
+	font-family: REGULAR;
+	src:  url('Dinish-Regular.ttf');
+}
+
+@font-face{
+	font-family: REGULAR ITALIC;
+	src:  url('Dinish-Italic.ttf');
+}
+
+@font-face{
+	font-family:  ITALIC;
+	src:  url('timesi.ttf');
+}
+
+@font-face{
+	font-family:  ITALIC QUOTE;
+	src:  url('Lucette-Regularitalic.ttf');
+}
+
+
+@font-face{
+	font-family: DISPLAY;
+	src:  url('Goozette.otf');
+}
+
+
+h2{
+	/*Nom Prénom*/
+	font-family: REGULAR;
+}
+
+h3{
+	/*Nom Prénom Auteur*/
+	font-family: DISPLAY;
+}
+
+h4{
+	/*Titre*/
+	font-family: ITALIC;
+}
+
+h5{
+	/*Éditeur Date*/
+	font-family: REGULAR ITALIC;
+}
+
+h6{
+	/*Date consultation*/
+	font-family: REGULAR ITALIC;
+}
+
+blockquote{
+	/*Citation*/
+	font-family: ITALIC QUOTE;
+}
+
+p{
+	/*Texte*/
+	font-family: REGULAR;
+}
+
+
+aside{
+	margin-left: 10px;
+	margin-right: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+a {
+	/*Liens*/
+	color: blue;
+}
+
+article{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	padding:  10px 30px 10px;
+}
+
+section{
+	margin-left: 50px;
+	margin-right: 50px; 
+	display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,7 +2,8 @@
 <html lang="fr">
   <head>
     <meta charset="UTF-8">
-    <title>Références</title>
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <title>archives</title>
   </head>
 
   <body>
