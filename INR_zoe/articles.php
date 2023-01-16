@@ -441,7 +441,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv typographie numerique" id="div11">
+  <article class="filterDiv reseaux numerique" id="div11">
     <h3>
       COOPER, Muriel.  
     </h3>
